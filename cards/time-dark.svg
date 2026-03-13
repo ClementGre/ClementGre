@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >WakaTime Stats (last 7 days)</text>
+      >Time stats (last week)</text>
     </g>
       </g>
     
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="135.594"
+            width="153.8685"
             height="8"
             fill="#858585"
           />
@@ -137,29 +137,39 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="135.594"
+            x="153.8685"
             y="0"
-            width="102.7185"
+            width="131.2695"
             height="8"
-            fill="#3572A5"
+            fill="#f34b7d"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="238.3125"
+            x="285.13800000000003"
             y="0"
-            width="91.8375"
+            width="80.817"
             height="8"
-            fill="#cb171e"
+            fill="#858585"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="330.15"
+            x="365.95500000000004"
             y="0"
-            width="77.6085"
+            width="37.990500000000004"
+            height="8"
+            fill="#427819"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="403.94550000000004"
+            y="0"
+            width="34.3635"
             height="8"
             fill="#083fa1"
           />
@@ -167,63 +177,53 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="407.75849999999997"
+            x="438.309"
             y="0"
-            width="34.0845"
+            width="27.6675"
             height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="441.84299999999996"
-            y="0"
-            width="22.0875"
-            height="8"
-            fill="#d1dbe0"
+            fill="#3572A5"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Javascript - 0 hrs 36 mins
+        C/c++ - 3 hrs 37 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 0 hrs 27 mins
+        C++ - 3 hrs 5 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#cb171e" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 0 hrs 24 mins
+        C/c++ header - 1 hrs 54 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 0 hrs 20 mins
+        Makefile - 0 hrs 54 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Textmate - 0 hrs 9 mins
+        Markdown - 0 hrs 49 mins
       </text>
     </g>
   
     <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        INI - 0 hrs 6 mins
+        Python - 0 hrs 39 mins
       </text>
     </g>
   
