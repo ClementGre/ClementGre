@@ -49,14 +49,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=clement_gre&api_domain=wakapi.clgr.io&layout=compact&hide_border=true&langs_count=6&theme=dark
+          options: username=clement_gre&api_domain=wakapi.clgr.io&layout=compact&hide_border=true&langs_count=6&theme=dark&custom_title=Time stats (last week)
           path: cards/time-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate time card light
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=clement_gre&api_domain=wakapi.clgr.io&layout=compact&hide_border=true&langs_count=6
+          options: username=clement_gre&api_domain=wakapi.clgr.io&layout=compact&hide_border=true&langs_count=6&custom_title=Time stats (last week)
           path: cards/time-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
