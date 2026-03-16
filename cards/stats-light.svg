@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cl&#233;ment Grennerat's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1169, Total Commits  (last year) : 571, Total PRs: 36, Total Issues: 39</desc>
+        <desc id="descId">Total Stars Earned: 1175, Total Commits  (last year) : 576, Total PRs: 36, Total Issues: 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.3884566448062;
+        stroke-dashoffset: 60.71101273596995;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >571</text>
+      >576</text>
     </g>
   </g><g transform="translate(0, 48)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
