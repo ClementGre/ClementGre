@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Time stats (last week)</text>
+      >Time stats (last year)</text>
     </g>
       </g>
     
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="195.71850000000003"
+            width="216.4575"
             height="8"
             fill="#dea584"
           />
@@ -137,19 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="195.71850000000003"
+            x="216.4575"
             y="0"
-            width="107.4615"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="303.18000000000006"
-            y="0"
-            width="45.244499999999995"
+            width="87.23400000000001"
             height="8"
             fill="#858585"
           />
@@ -157,19 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="348.4245000000001"
+            x="303.6915"
             y="0"
-            width="43.4775"
-            height="8"
-            fill="#3178c6"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="391.9020000000001"
-            y="0"
-            width="37.385999999999996"
+            width="54.684"
             height="8"
             fill="#239dad"
           />
@@ -177,53 +157,73 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="429.2880000000001"
+            x="358.3755"
             y="0"
-            width="35.34"
+            width="50.9175"
             height="8"
             fill="#3572A5"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="409.293"
+            y="0"
+            width="28.458000000000002"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="437.75100000000003"
+            y="0"
+            width="28.086"
+            height="8"
+            fill="#A97BFF"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 102 hrs 11 mins
+        Rust - 106 hrs 41 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 56 hrs 7 mins
+        Javascript (JS, TS, TSX, Vue) - 42 hrs 59 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#239dad" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Unknown - 23 hrs 38 mins
+        Typst - 26 hrs 57 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TSX - 22 hrs 42 mins
+        Python - 25 hrs 5 mins
       </text>
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#239dad" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Typst - 19 hrs 32 mins
+        C/c++ - 14 hrs 1 mins
       </text>
     </g>
   
     <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 18 hrs 28 mins
+        Kotlin - 13 hrs 50 mins
       </text>
     </g>
   
