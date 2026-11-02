@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="216.4575"
+            width="214.458"
             height="8"
             fill="#dea584"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="216.4575"
+            x="214.458"
             y="0"
-            width="87.23400000000001"
+            width="87.6525"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="303.6915"
+            x="302.1105"
             y="0"
-            width="54.684"
+            width="54.218999999999994"
             height="8"
             fill="#239dad"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="358.3755"
+            x="356.3295"
             y="0"
-            width="50.9175"
+            width="53.475"
             height="8"
             fill="#3572A5"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="409.293"
+            x="409.8045"
             y="0"
-            width="28.458000000000002"
+            width="28.2255"
             height="8"
             fill="#858585"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="437.75100000000003"
+            x="438.03000000000003"
             y="0"
-            width="28.086"
+            width="27.9"
             height="8"
             fill="#A97BFF"
           />
@@ -195,7 +195,7 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Javascript (JS, TS, TSX, Vue) - 42 hrs 59 mins
+        Javascript (JS, TS, TSX, Vue) - 43 hrs 35 mins
       </text>
     </g>
   
@@ -209,7 +209,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 25 hrs 5 mins
+        Python - 26 hrs 36 mins
       </text>
     </g>
   
@@ -223,7 +223,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin - 13 hrs 50 mins
+        Kotlin - 13 hrs 52 mins
       </text>
     </g>
   
